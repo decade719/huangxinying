@@ -1,0 +1,7 @@
+{
+  "name": "Name Galaxy - Huang Xinying",
+  "description": "A 3D interactive visualization where a sphere is composed of the letters 'Huang Xinying' and geometric shapes, controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
